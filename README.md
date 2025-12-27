@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a passionate **Backend & Cloud Developer** specializing in **Java, Spring Boot, Microservices, Docker, Kubernetes, Terrraform, Jenkins and AWS**.  
+I'm a passionate **Devops & Backend Developer** specializing in **Java, Spring Boot, Microservices, Docker, Kubernetes, Terrraform, Jenkins and AWS**.  
 I love building scalable applications, solving problems, and constantly pushing myself to learn new technologies.  
 
 
